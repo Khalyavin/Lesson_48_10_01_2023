@@ -31,4 +31,3 @@ SELECT COUNT(DISTINCT order_id) FROM orders  --> 830
 
 SELECT COUNT(ship_country) FROM orders  --> 830
 SELECT COUNT(DISTINCT ship_country) FROM orders  --> 21
-
